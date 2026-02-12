@@ -1,4 +1,4 @@
-import { CoreTool, Tool, toJsonSchema } from '@mcpbr/core'
+import { CoreTool, Tool, toJsonSchema } from '../core'
 import { z } from 'zod'
 import { baseUrl } from '../meta'
 
